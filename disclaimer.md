@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Disclaimer
-navigation: 2
+navigation: 3
 ---
 
 # Disclaimer
